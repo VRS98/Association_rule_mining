@@ -1,0 +1,61 @@
+CLOSED SETS
+fruit/vegetable juice
+bottled beer
+tropical fruit
+curd
+other vegetables
+pork
+root vegetables
+frankfurter
+canned beer
+coffee
+whipped/sour cream
+bottled water
+rolls/buns
+yogurt
+domestic eggs
+beef
+butter
+sausage
+pip fruit
+pastry
+napkins
+whole milk
+brown bread
+citrus fruit
+shopping bags
+soda
+margarine
+newspapers
+('other vegetables', 'whole milk')
+('rolls/buns', 'whole milk')
+('whole milk', 'yogurt')
+
+MAXIMAL SETS
+fruit/vegetable juice
+bottled beer
+tropical fruit
+curd
+pork
+root vegetables
+frankfurter
+canned beer
+coffee
+whipped/sour cream
+bottled water
+domestic eggs
+beef
+butter
+sausage
+pip fruit
+pastry
+napkins
+brown bread
+citrus fruit
+shopping bags
+soda
+margarine
+newspapers
+('other vegetables', 'whole milk')
+('rolls/buns', 'whole milk')
+('whole milk', 'yogurt')

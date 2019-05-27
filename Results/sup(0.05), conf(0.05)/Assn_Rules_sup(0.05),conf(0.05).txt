@@ -1,0 +1,7 @@
+ASSOCIATION RULES
+rolls/buns ( 1809 ) ---> whole milk ( 2513 )  - conf( 0.30790491984521834 )
+whole milk ( 2513 ) ---> rolls/buns ( 1809 )  - conf( 0.2216474333465977 )
+other vegetables ( 1903 ) ---> whole milk ( 2513 )  - conf( 0.38675775091960063 )
+whole milk ( 2513 ) ---> other vegetables ( 1903 )  - conf( 0.29287703939514526 )
+whole milk ( 2513 ) ---> yogurt ( 1372 )  - conf( 0.2192598487863112 )
+yogurt ( 1372 ) ---> whole milk ( 2513 )  - conf( 0.40160349854227406 )
